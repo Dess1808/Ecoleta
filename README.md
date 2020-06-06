@@ -1,2 +1,2 @@
 # Ecoleta
-Semana Next Level Week - Rocketseat
+Semana Next Level Week - Rocketseat - Training Project
